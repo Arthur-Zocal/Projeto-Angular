@@ -21,7 +21,7 @@ import { ProdutosComponent } from './pages/produtos/produtos.component';
     .app-container {
      font-family: 'Open Sans', Arial, sans-serif;
       min-height: 100vh;
-      background: linear-gradient(135deg, #777777ff 0%, #4b4b4bff 50%, #575757ff);
+      background: linear-gradient(135deg, #858585ff 0%, #4b4b4bff 50%, #494949ff);
     }
     
     .app-header {
